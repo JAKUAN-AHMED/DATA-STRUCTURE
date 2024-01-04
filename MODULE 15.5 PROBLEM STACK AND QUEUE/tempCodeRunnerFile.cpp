@@ -1,0 +1,2 @@
+
+    while (!st.empty())
